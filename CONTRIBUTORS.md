@@ -66,6 +66,7 @@
  - [mark-monteiro](https://github.com/mark-monteiro)
  - [Matt07211](https://github.com/Matt07211)
  - [mcarlton00](https://github.com/mcarlton00)
+ - [michaelkrieger](https://github.com/michaelkrieger)
  - [mitchfizz05](https://github.com/mitchfizz05)
  - [MrTimscampi](https://github.com/MrTimscampi)
  - [n8225](https://github.com/n8225)
